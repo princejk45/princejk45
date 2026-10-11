@@ -25,69 +25,6 @@
 
 ---
 
-## About Me
-
-PHP & WordPress developer focused on custom plugins, business applications, and digital products.
-
-I build practical solutions ranging from booking systems and e-commerce integrations to AI-powered tools.
-
-Currently developing independent software products under [Fisher Labs](https://fisherlabs.eu).
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<h3>Languages & Web</h3>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<h3>CMS & E-commerce</h3>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
-<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" alt="PrestaShop">
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<h3>Databases</h3>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<h3>Tools & Infrastructure</h3>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk">
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## Development Focus
 
 <table>
@@ -310,6 +247,59 @@ Currently developing independent software products under [Fisher Labs](https://f
 <br>
 
 <sub>Developing and improving Fisher Labs products.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<h3>Languages & Web</h3>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<h3>CMS & E-commerce</h3>
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
+<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" alt="PrestaShop">
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<h3>Databases</h3>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<h3>Tools & Infrastructure</h3>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk">
 
 </td>
 </tr>
