@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:101828,50:163A70,100:087F8C&text=Princewill%20Ehis%20Okiriguo&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=PHP%20%7C%20WordPress%20%7C%20Custom%20Software%20Development&descSize=15&descAlignY=62&descColor=D6EAF8" width="100%" alt="Princewill Ehis Okiriguo - PHP, WordPress and Custom Software Development" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101828,50:163A70,100:087F8C&text=Princewill%20Ehis%20Okiriguo&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=PHP%20%7C%20WordPress%20%7C%20Custom%20Software&descSize=16&descAlignY=63&descColor=D6EAF8" width="100%" alt="Princewill Ehis Okiriguo - PHP, WordPress and Custom Software" />
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br><br>
 
-**Building practical software, custom WordPress solutions, and digital systems for real-world businesses.**
+**Building custom software, WordPress solutions, and digital products for real-world businesses.**
 
 </div>
 
@@ -27,25 +27,19 @@
 
 ## About Me
 
-I'm a PHP and WordPress developer focused on custom functionality, plugin development, business applications, and digital systems.
+PHP & WordPress developer focused on custom plugins, business applications, and digital products.
 
-I work across the development lifecycle, from understanding business requirements and designing solutions to implementation, deployment, maintenance, and troubleshooting.
+I build practical solutions ranging from booking systems and e-commerce integrations to AI-powered tools.
 
-My experience includes supporting production websites, developing bespoke WordPress functionality, building booking systems, and creating independent software products under **Fisher Labs**.
-
-- **Core expertise:** PHP, WordPress, custom plugin development, and WooCommerce.
-- **Application development:** Business tools, booking systems, administrative dashboards, and workflow automation.
-- **Digital systems:** API integrations, database-driven applications, hosting, and website migrations.
-- **Product development:** Independent software products, AI integrations, and licensing systems.
-- **Additional background:** An MBA with research experience in SME strategy and internationalization.
+Currently developing independent software products under [Fisher Labs](https://fisherlabs.eu).
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 <div align="center">
 
-### Languages & Web Development
+### Languages
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -59,7 +53,7 @@ My experience includes supporting production websites, developing bespoke WordPr
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
 <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop">
 
-### Databases & Infrastructure
+### Databases & Tools
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -69,38 +63,56 @@ My experience includes supporting production websites, developing bespoke WordPr
 
 </div>
 
-**Other areas:** Custom REST API integrations, website migrations, DNS management, Plesk, technical SEO, analytics integrations, and AI-assisted development.
+### Languages on GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejk45&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages on GitHub">
+
+</div>
 
 ---
 
-## What I Do
+## Development Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>WordPress Engineering</h3>
-<p>Custom plugins, themes, WooCommerce integrations, bespoke functionality, website maintenance, and production troubleshooting.</p>
+<h3>01 / WordPress Engineering</h3>
+
+<img src="https://img.shields.io/badge/Custom-Development-21759B?style=flat-square" alt="Custom Development">
+
+<p>Custom plugins, themes, WooCommerce integrations, bespoke functionality, and production troubleshooting.</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Application Development</h3>
-<p>PHP applications, booking workflows, administrative tools, database-driven systems, and business process automation.</p>
+<h3>02 / Application Development</h3>
+
+<img src="https://img.shields.io/badge/PHP-Applications-777BB4?style=flat-square" alt="PHP Applications">
+
+<p>Business applications, booking workflows, administrative tools, database-driven systems, and workflow automation.</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Platform Operations</h3>
-<p>Website migrations, Linux hosting, DNS, Plesk, deployment support, performance troubleshooting, and technical SEO.</p>
+<h3>03 / Platform Operations</h3>
+
+<img src="https://img.shields.io/badge/Hosting%20%26%20Infrastructure-087F8C?style=flat-square" alt="Hosting and Infrastructure">
+
+<p>Website migrations, Linux hosting, DNS, Plesk, maintenance, deployment support, and technical SEO.</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Product Development</h3>
-<p>Independent software products, AI integrations, licensing architecture, and self-hosted business tools.</p>
+<h3>04 / Product Development</h3>
+
+<img src="https://img.shields.io/badge/Independent-Software-8B5CF6?style=flat-square" alt="Independent Software">
+
+<p>Self-hosted products, AI integrations, licensing architecture, and tools designed around business needs.</p>
 
 </td>
 </tr>
@@ -116,22 +128,24 @@ My experience includes supporting production websites, developing bespoke WordPr
 
 <h3>Converso AI</h3>
 
-<p>A white-label AI assistant designed to answer questions using a business's own content and information, with integrations for digital communication channels.</p>
+<img src="https://img.shields.io/badge/AI-RAG%20Assistant-8B5CF6?style=flat-square" alt="AI RAG Assistant">
+<img src="https://img.shields.io/badge/WordPress-Plugin-21759B?style=flat-square" alt="WordPress Plugin">
 
-<a href="https://fisherlabs.eu/en/fl_product/converso-ai/">
-<img src="https://img.shields.io/badge/Explore%20Product-087F8C?style=for-the-badge" alt="Explore Converso AI">
-</a>
+<p>A customizable AI assistant that answers questions using business-specific content and information, with integrations for digital communication channels.</p>
+
+<a href="https://fisherlabs.eu/en/fl_product/converso-ai/"><strong>Explore Product →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>SiteMaster Suite</h3>
 
-<p>A business management tool for tracking client websites, domains, hosting, email services, expiry dates, notifications, and related administrative records.</p>
+<img src="https://img.shields.io/badge/Business-Management-2DD4BF?style=flat-square" alt="Business Management">
+<img src="https://img.shields.io/badge/Self--Hosted-Software-64748B?style=flat-square" alt="Self-hosted Software">
 
-<a href="https://sitemaster-demo.fisherlabs.eu">
-<img src="https://img.shields.io/badge/View%20Demo-163A70?style=for-the-badge" alt="SiteMaster Suite Demo">
-</a>
+<p>A management platform for client websites, domains, hosting, email services, expiry tracking, notifications, and administrative records.</p>
+
+<a href="https://sitemaster-demo.fisherlabs.eu"><strong>View Demo →</strong></a>
 
 </td>
 </tr>
@@ -140,22 +154,24 @@ My experience includes supporting production websites, developing bespoke WordPr
 
 <h3>DocShare Central</h3>
 
-<p>A self-hosted file-sharing solution with shareable links, personal Link-in-Bio pages, analytics, and multilingual support.</p>
+<img src="https://img.shields.io/badge/File-Sharing-3B82F6?style=flat-square" alt="File Sharing">
+<img src="https://img.shields.io/badge/Self--Hosted-Platform-64748B?style=flat-square" alt="Self-hosted Platform">
 
-<a href="https://docshare-demo.fisherlabs.eu">
-<img src="https://img.shields.io/badge/View%20Demo-087F8C?style=for-the-badge" alt="DocShare Central Demo">
-</a>
+<p>A self-hosted file-sharing platform with shareable links, personal Link-in-Bio pages, analytics, and multilingual support.</p>
+
+<a href="https://docshare-demo.fisherlabs.eu"><strong>View Demo →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>PayDoc Studio</h3>
 
-<p>A self-hosted document-generation tool for payslips, employment letters, reference letters, and client invoices.</p>
+<img src="https://img.shields.io/badge/Document-Automation-F59E0B?style=flat-square" alt="Document Automation">
+<img src="https://img.shields.io/badge/Business-Tools-087F8C?style=flat-square" alt="Business Tools">
 
-<a href="https://paydoc-demo.fisherlabs.eu">
-<img src="https://img.shields.io/badge/View%20Demo-163A70?style=for-the-badge" alt="PayDoc Studio Demo">
-</a>
+<p>A document-generation tool for payslips, employment letters, reference letters, and client invoices.</p>
+
+<a href="https://paydoc-demo.fisherlabs.eu"><strong>View Demo →</strong></a>
 
 </td>
 </tr>
@@ -164,22 +180,24 @@ My experience includes supporting production websites, developing bespoke WordPr
 
 <h3>Negombo Booking Engine</h3>
 
-<p>A multilingual booking system for a thermal park, featuring a grid-mapped resort layout and booking-window rules.</p>
+<img src="https://img.shields.io/badge/Booking-System-087F8C?style=flat-square" alt="Booking System">
+<img src="https://img.shields.io/badge/Multilingual-Support-64748B?style=flat-square" alt="Multilingual Support">
 
-<a href="https://prenotazioni.negombo.it">
-<img src="https://img.shields.io/badge/Visit%20Live%20Site-087F8C?style=for-the-badge" alt="Negombo Booking Engine">
-</a>
+<p>A multilingual booking engine for a thermal park, featuring a grid-mapped resort layout and custom booking-window rules.</p>
+
+<a href="https://prenotazioni.negombo.it"><strong>Visit Live Site →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>Spiaggia San Montano</h3>
 
-<p>A beach reservation portal built with WordPress, WooCommerce, and custom functionality to support online bookings.</p>
+<img src="https://img.shields.io/badge/WooCommerce-E--commerce-96588A?style=flat-square" alt="WooCommerce">
+<img src="https://img.shields.io/badge/Custom-Booking-087F8C?style=flat-square" alt="Custom Booking">
 
-<a href="https://prenotazioni.spiaggiasanmontano.it">
-<img src="https://img.shields.io/badge/Visit%20Live%20Site-163A70?style=for-the-badge" alt="Spiaggia San Montano">
-</a>
+<p>An online beach reservation portal built with WordPress, WooCommerce, and custom booking functionality.</p>
+
+<a href="https://prenotazioni.spiaggiasanmontano.it"><strong>Visit Live Site →</strong></a>
 
 </td>
 </tr>
@@ -189,49 +207,44 @@ My experience includes supporting production websites, developing bespoke WordPr
 
 ## Other Development Work
 
-### Custom WordPress Plugins & Modules
-
-- **Cerco Eventi:** Custom plugin development for an events-focused website.  
-  Website: [cercoeventi.it](https://cercoeventi.it)
-
-- **NewsFlow Video Carousel:** Custom video carousel functionality for a digital publishing platform.  
-  Website: [Quicosenza](https://quicosenza.it)
-
-- **Custom WordPress Plugins:** Bespoke functionality developed to meet specific business requirements, including integrations and workflow improvements.
-
-### E-commerce & Integrations
-
-- **ShopFuturCasa:** Work involving a PrestaShop e-commerce platform and integrations within its digital operations.  
-  Website: [shopfuturcasa.it](https://shopfuturcasa.it)
-
----
-
-## Professional Experience
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Web Development & Digital Delivery</h3>
+<h3>Cerco Eventi</h3>
 
-<ul>
-<li>Development and maintenance of WordPress websites and custom functionality.</li>
-<li>Support for production websites, migrations, hosting, and troubleshooting.</li>
-<li>Implementation of analytics and marketing integrations.</li>
-<li>Development of booking systems and business-specific web applications.</li>
-</ul>
+<p>Custom WordPress plugin development for an events-focused website.</p>
+
+<a href="https://cercoeventi.it"><strong>Visit Website →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Digital Systems & Technical Coordination</h3>
+<h3>NewsFlow Video Carousel</h3>
 
-<ul>
-<li>Technical support and digital systems management.</li>
-<li>Development of tools to improve business workflows.</li>
-<li>Coordination and supervision of technical interns.</li>
-<li>Independent software product development through Fisher Labs.</li>
-</ul>
+<p>Custom video carousel functionality developed for a digital publishing platform.</p>
+
+<a href="https://quicosenza.it"><strong>Visit Quicosenza →</strong></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>ShopFuturCasa</h3>
+
+<p>E-commerce work involving a PrestaShop platform and integrations supporting digital operations.</p>
+
+<a href="https://shopfuturcasa.it"><strong>Visit Website →</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Custom Plugin Development</h3>
+
+<p>Bespoke WordPress plugins and modules built around specific business requirements, integrations, and workflow improvements.</p>
+
+<a href="https://github.com/princejk45"><strong>Explore GitHub →</strong></a>
 
 </td>
 </tr>
@@ -239,48 +252,88 @@ My experience includes supporting production websites, developing bespoke WordPr
 
 ---
 
-## Currently
-
-- Developing and improving independent software products under [Fisher Labs](https://fisherlabs.eu).
-- Working on PHP and WordPress solutions for practical business requirements.
-- Exploring AI integrations and ways to improve software development workflows.
-- Supporting websites, digital platforms, and business systems.
-
----
-
-## GitHub Activity
+## Experience at a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princejk45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics">
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejk45&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Most used programming languages">
+<img src="https://img.shields.io/badge/50%2B-Live%20Websites-21759B?style=for-the-badge" alt="50 plus live websites">
+
+<br><br>
+
+<strong>Website Support</strong>
+
+<br>
+
+<sub>Maintenance, development, and production support.</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Custom-Plugins-8B5CF6?style=for-the-badge" alt="Custom plugins">
+
+<br><br>
+
+<strong>Plugin Development</strong>
+
+<br>
+
+<sub>Custom functionality for business requirements.</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Independent-Products-087F8C?style=for-the-badge" alt="Independent products">
+
+<br><br>
+
+<strong>Product Building</strong>
+
+<br>
+
+<sub>Developing and improving Fisher Labs products.</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Let's Connect
+## Currently
 
-I'm interested in opportunities involving PHP, WordPress engineering, custom plugin development, e-commerce, and business application development.
+- Building and improving software products under [Fisher Labs](https://fisherlabs.eu).
+- Developing PHP and WordPress solutions for practical business needs.
+- Exploring AI integrations and AI-assisted development workflows.
+- Supporting digital platforms, websites, and business systems.
+
+---
+
+## Let's Connect
 
 <div align="center">
 
+**Have a WordPress project, a custom development requirement, or an idea for a digital product?**
+
+<br>
+
 <a href="https://linkedin.com/in/princewill-okiriguo">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
 </a>
-
 <a href="https://fisherlabs.eu/princewill-en">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-087F8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-087F8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio">
 </a>
-
 <a href="https://github.com/princejk45">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-View%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:101828,50:163A70,100:087F8C&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:101828,50:163A70,100:087F8C&section=footer" width="100%" alt="Footer">
 
 <sub>Building useful software, one solution at a time.</sub>
 
