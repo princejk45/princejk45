@@ -39,35 +39,50 @@ Currently developing independent software products under [Fisher Labs](https://f
 
 <div align="center">
 
-### Languages
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<h3>Languages & Web</h3>
 
-### CMS & E-commerce
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop">
+</td>
+<td align="center" width="50%" valign="top">
 
-### Databases & Tools
+<h3>CMS & E-commerce</h3>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
+<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" alt="PrestaShop">
 
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
 
-### Languages on GitHub
+<h3>Databases</h3>
 
-<div align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejk45&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages on GitHub">
+</td>
+<td align="center" width="50%" valign="top">
+
+<h3>Tools & Infrastructure</h3>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk">
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -258,7 +273,7 @@ Currently developing independent software products under [Fisher Labs](https://f
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/50%2B-Live%20Websites-21759B?style=for-the-badge" alt="50 plus live websites">
 
@@ -271,7 +286,7 @@ Currently developing independent software products under [Fisher Labs](https://f
 <sub>Maintenance, development, and production support.</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/Custom-Plugins-8B5CF6?style=for-the-badge" alt="Custom plugins">
 
@@ -284,7 +299,7 @@ Currently developing independent software products under [Fisher Labs](https://f
 <sub>Custom functionality for business requirements.</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/Independent-Products-087F8C?style=for-the-badge" alt="Independent products">
 
