@@ -34,19 +34,14 @@
 ## Selected Projects
 
 <table width="100%">
-<colgroup>
-<col width="30%">
-<col width="40%">
-<col width="30%">
-</colgroup>
 <thead>
-<tr><th align="left">Project</th><th align="left">Summary</th><th align="left">Link</th></tr>
+<tr><th width="30%" align="left">Project</th><th width="40%" align="left">Summary</th><th width="30%" nowrap align="left">Link</th></tr>
 </thead>
 <tbody>
-<tr><td valign="top"><strong>Converso AI</strong></td><td valign="top">Customizable AI assistant that answers from business-specific content, with messaging-channel integrations.</td><td valign="top"><a href="https://fisherlabs.eu/en/fl_product/converso-ai/">Explore →</a></td></tr>
-<tr><td valign="top"><strong>SiteMaster Suite</strong></td><td valign="top">Self-hosted platform for client websites, domains, hosting, email, expiry tracking, and notifications.</td><td valign="top"><a href="https://sitemaster-demo.fisherlabs.eu">Demo →</a></td></tr>
-<tr><td valign="top"><strong>DocShare Central</strong></td><td valign="top">Self-hosted file sharing with shareable links, Link-in-Bio pages, analytics, and multilingual support.</td><td valign="top"><a href="https://docshare-demo.fisherlabs.eu">Demo →</a></td></tr>
-<tr><td valign="top"><strong>PayDoc Studio</strong></td><td valign="top">Document generation for payslips, employment and reference letters, and client invoices.</td><td valign="top"><a href="https://paydoc-demo.fisherlabs.eu">Demo →</a></td></tr>
+<tr><td width="30%" valign="top"><strong>Converso AI</strong></td><td width="40%" valign="top">Customizable AI assistant that answers from business-specific content, with messaging-channel integrations.</td><td width="30%" nowrap valign="top"><a href="https://fisherlabs.eu/en/fl_product/converso-ai/">Explore →</a></td></tr>
+<tr><td width="30%" valign="top"><strong>SiteMaster Suite</strong></td><td width="40%" valign="top">Self-hosted platform for client websites, domains, hosting, email, expiry tracking, and notifications.</td><td width="30%" nowrap valign="top"><a href="https://sitemaster-demo.fisherlabs.eu">Demo →</a></td></tr>
+<tr><td width="30%" valign="top"><strong>DocShare Central</strong></td><td width="40%" valign="top">Self-hosted file sharing with shareable links, Link-in-Bio pages, analytics, and multilingual support.</td><td width="30%" nowrap valign="top"><a href="https://docshare-demo.fisherlabs.eu">Demo →</a></td></tr>
+<tr><td width="30%" valign="top"><strong>PayDoc Studio</strong></td><td width="40%" valign="top">Document generation for payslips, employment and reference letters, and client invoices.</td><td width="30%" nowrap valign="top"><a href="https://paydoc-demo.fisherlabs.eu">Demo →</a></td></tr>
 </tbody>
 </table>
 
