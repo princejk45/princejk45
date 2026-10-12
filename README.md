@@ -33,12 +33,22 @@
 
 ## Selected Projects
 
-| Project | Summary | Link |
-|---|---|---|
-| **Converso AI** | Customizable AI assistant that answers from business-specific content, with messaging-channel integrations. | [Explore →](https://fisherlabs.eu/en/fl_product/converso-ai/) |
-| **SiteMaster Suite** | Self-hosted platform for client websites, domains, hosting, email, expiry tracking, and notifications. | [Demo →](https://sitemaster-demo.fisherlabs.eu) |
-| **DocShare Central** | Self-hosted file sharing with shareable links, Link-in-Bio pages, analytics, and multilingual support. | [Demo →](https://docshare-demo.fisherlabs.eu) |
-| **PayDoc Studio** | Document generation for payslips, employment and reference letters, and client invoices. | [Demo →](https://paydoc-demo.fisherlabs.eu) |
+<table width="100%">
+<colgroup>
+<col width="30%">
+<col width="45%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr><th align="left">Project</th><th align="left">Summary</th><th align="left">Link</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top"><strong>Converso AI</strong></td><td valign="top">Customizable AI assistant that answers from business-specific content, with messaging-channel integrations.</td><td valign="top"><a href="https://fisherlabs.eu/en/fl_product/converso-ai/">Explore →</a></td></tr>
+<tr><td valign="top"><strong>SiteMaster Suite</strong></td><td valign="top">Self-hosted platform for client websites, domains, hosting, email, expiry tracking, and notifications.</td><td valign="top"><a href="https://sitemaster-demo.fisherlabs.eu">Demo →</a></td></tr>
+<tr><td valign="top"><strong>DocShare Central</strong></td><td valign="top">Self-hosted file sharing with shareable links, Link-in-Bio pages, analytics, and multilingual support.</td><td valign="top"><a href="https://docshare-demo.fisherlabs.eu">Demo →</a></td></tr>
+<tr><td valign="top"><strong>PayDoc Studio</strong></td><td valign="top">Document generation for payslips, employment and reference letters, and client invoices.</td><td valign="top"><a href="https://paydoc-demo.fisherlabs.eu">Demo →</a></td></tr>
+</tbody>
+</table>
 
 <div align="center">
 
@@ -48,21 +58,6 @@
 
 ---
 
-## Experience
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/50%2B-Live%20Websites-21759B?style=for-the-badge" alt="50 plus live websites">
-<img src="https://img.shields.io/badge/Custom-Plugins-8B5CF6?style=for-the-badge" alt="Custom plugins">
-<img src="https://img.shields.io/badge/Independent-Products-087F8C?style=for-the-badge" alt="Independent products">
-
-<br>
-
-<sub>Website support and maintenance · Custom plugin development · Fisher Labs products</sub>
-
-</div>
-
----
 
 ## Tech Stack
 
