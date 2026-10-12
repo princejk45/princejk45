@@ -36,8 +36,8 @@
 <table width="100%">
 <colgroup>
 <col width="30%">
-<col width="45%">
-<col width="25%">
+<col width="40%">
+<col width="30%">
 </colgroup>
 <thead>
 <tr><th align="left">Project</th><th align="left">Summary</th><th align="left">Link</th></tr>
